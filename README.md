@@ -2,7 +2,7 @@
 - React Frontend
 - Express server
 - Mongo and MySQL DB
-- Nodejs
+- Node.js
 
 - Socket.io
 - WebRTC
