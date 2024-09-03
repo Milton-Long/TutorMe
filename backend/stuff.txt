@@ -1,3 +1,5 @@
 This is just a placeholder file to upload the file structure to git and github
 
 This dir will contain the application server, chat server, DB connections (MySQL and MongoDB), the webRTC server, etc.
+
+I want to get the figma design from JavaScript Mastery
