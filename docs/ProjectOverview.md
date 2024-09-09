@@ -20,9 +20,9 @@ The application aims to support high-quality video conferencing, live chat, scre
 - Video Conferencing: Real-time video and audio with screen sharing capabilities.
 - Chat Functionality: Live chat with text-based communication, file sharing, and reactions.
 - User Profiles and Authenication: Customizable user profiles, including profile picures and authentication for secure access.
-- Whiteboard: Virtual whitboard fro drawing and collaboration during sessions
-- Closed Captioning and Transcripts: Ral-time closed captioning and automatic transcript generation for accessibilty.
-- Integration with Cloud Storage: File sharing integration with serices like Google Drive or Dropbox
+- Whiteboard: Virtual whiteboard for drawing and collaboration during sessions
+- Closed Captioning and Transcripts: Real-time closed captioning and automatic transcript generation for accessibilty.
+- Integration with Cloud Storage: File sharing integration with serices like Google Drive or Dropbox.
 - Calendar Integration: Schedule session with Google Calendar and other platforms.
 
 ## Project Scope
