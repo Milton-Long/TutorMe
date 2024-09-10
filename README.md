@@ -9,6 +9,6 @@
 
 ## Project Documentation
 - [Project Overview](docs/ProjectOverview.md)
-- [Requirements](docs/ProjectOverview.md)
-- [System Design](docs/ProjectOverview.md)
-- [Testing Plan](docs/ProjectOverview.md)
+- [Requirements](docs/Requirements.md)
+- [System Design](docs/SystemDesign.md)
+- [Testing Plan](docs/TestingPlan.md)
