@@ -46,7 +46,7 @@ Functional requirements specify what the system must do, covering both the core 
 - **Session Controls (Host/Moderator)**
   - Hosts must be able to mute/unmute participants, remove participants from the session, or lock the session.
 
-~~###2.6 Polling and Surveys~~ 
+~~###2.6 Polling and Surveys~~  
 -~~**Live Polls**~~
   - ~~Hosts can create polls during a session, and participants must be able to vote.~~
 - ~~**Survey Results**~~
