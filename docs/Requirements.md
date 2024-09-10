@@ -96,11 +96,11 @@ These define how the system performs its functions, including performance, secur
   - The user interface must be clean and easy to use, with a focus on clear navigation.
 - **Mobile Responsiveness**
   - The platform must be fully responsive, working seamlessly on desktops, tablets, and smartphones.
-- ~~ **Accessibility** ~~
-  - ~~ The system must comply with accessibility standards (e.g., WCAG) to ensure that it can be used by people with disabilities. ~~
+- ~~**Accessibility**~~
+  - ~~The system must comply with accessibility standards (e.g., WCAG) to ensure that it can be used by people with disabilities.~~
 
 ### 3.5 Scalability
-- ~~ **Load Balancing** ~~
+- ~~**Load Balancing**~~
   - ~~The system must use load balancing techniques to distribute traffic across multiple servers for scalability.~~
 - **Containerization**
   - The system must be containerized using Docker to simplify deployment and scaling across multiple environments (development, testing, production).
